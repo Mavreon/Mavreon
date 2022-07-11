@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Mavreon/Mavreon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello, I'm Chisom Ogbonna 👋
+- 👦🏿 I am 20 years old, a nigerian and a self taught developer.
+- 🔭 I’m currently broadening my knowledge on frontend development tools and technologies(React.js, Next.js etc).
+- 🌱 I’m currently learning React.js.
+- 👯 I’m looking to collaborate on frontend web projects.
+- 🤔 I’m looking for help with building an awesome portfolio.
+- 💬 Ask me about game development or any tech related stuff.
+- 📫 How to reach me: LinkedIn - @mavreon.
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: I love watching Kdrama, lol 🤣.
