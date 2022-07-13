@@ -12,4 +12,14 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=mavreon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   17 hrs 35 mins  ██████████████████▓░░░░░░   75.12 %
+C#           2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+CSS          1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+HTML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Git          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```
+
 <!--END_SECTION:waka-->
