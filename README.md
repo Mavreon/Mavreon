@@ -20,5 +20,5 @@ C#     5 hrs 41 mins   ███████████████████
 HTML   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
-
+[![wakatime](https://wakatime.com/badge/user/b3eff457-1de7-4ef9-9a2b-c8f23bae0969.svg)](https://wakatime.com/@b3eff457-1de7-4ef9-9a2b-c8f23bae0969)
 <!--END_SECTION:waka-->
