@@ -25,3 +25,4 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/b3eff457-1de7-4ef9-9a2b-c8f23bae0969.svg)](https://wakatime.com/@b3eff457-1de7-4ef9-9a2b-c8f23bae0969)
