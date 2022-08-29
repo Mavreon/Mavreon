@@ -1,5 +1,5 @@
 ### Hello, I'm Chisom Ogbonna 👋
-- 👦🏿 I am 20 years old, a nigerian and a self taught developer.
+- 👦🏿 I am 21 years old, a nigerian and a self taught developer.
 - 🔭 I’m currently broadening my knowledge on frontend development tools and technologies(React.js, Next.js etc).
 - 🌱 I’m currently mastering React.js.
 - 🍃 I'm currently learning react native.
