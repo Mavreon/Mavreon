@@ -1,5 +1,6 @@
 ### Hello, I'm Chisom Ogbonna 👋
 - 👦🏿 I am 21 years old, a nigerian and a self taught developer.
+- 💻 I am proficient in a wide range of skills; Digital art, 3D modelling, Game Development, Frontend Web Development and Mobile Development(Cross Platform).
 - 🔭 I’m currently broadening my knowledge on frontend development tools and technologies(React.js, Next.js etc).
 - 🌱 I’m currently mastering React.js.
 - 🍃 I'm currently learning react native.
