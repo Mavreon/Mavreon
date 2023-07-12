@@ -18,8 +18,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Verse   2 hrs 32 mins   █████████████░░░░░░░░░░░░   52.53 %
-HTML    2 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.47 %
+HTML    2 hrs 45 mins   █████████████░░░░░░░░░░░░   51.93 %
+Verse   2 hrs 32 mins   ████████████░░░░░░░░░░░░░   48.07 %
 ```
 
 <!--END_SECTION:waka-->
