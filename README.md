@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TSQL             1 hr 56 mins    ███████████████████████▒░   93.59 %
+ActionScript 3   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+ActionScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
