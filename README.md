@@ -18,9 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TSQL             1 hr 56 mins    ███████████████████████▒░   93.59 %
-ActionScript 3   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-ActionScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TSQL             2 hrs 4 mins    ██████████████████████▒░░   89.63 %
+ActionScript 3   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+ActionScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
